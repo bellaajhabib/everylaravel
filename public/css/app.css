@@ -1,0 +1,12 @@
+body {
+  font: 1.4em/1.4 ooredoo, helvetica, arial, sans-serif;
+  color: #222;
+  -webkit-font-smoothing: antialiased;
+  word-wrap: break-word;
+  /*.flexbox & {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }*/ }
+
+/*# sourceMappingURL=app.css.map */

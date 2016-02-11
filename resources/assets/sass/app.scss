@@ -1,0 +1,21 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+$red: #ed1d24;
+$green: #62bb46;
+$color_steel_blue_approx: #337ab7;
+$color_blumine_approx: #23527c;
+$font: ooredoo, helvetica, arial, sans-serif;
+
+body {
+  font: 1.4em/1.4 $font;
+  color: #222;
+  -webkit-font-smoothing: antialiased;
+  word-wrap: break-word;
+
+  // background: url(../img/bg.png) center top no-repeat;
+  /*.flexbox & {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }*/
+}
